@@ -10,7 +10,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 900;
+  font-weight: 900;
 }
 
 .banner p,
@@ -18,27 +18,27 @@ h6 {
 .great-tea p,
 .client p,
 .news-and-events p,
-footer p{
-    color: #777777;
+footer p {
+  color: #777777;
 }
 
-h2{
-    font-size: 45px;
+h2 {
+  font-size: 45px;
 }
-h3{
-    font-size: 25px;
+h3 {
+  font-size: 25px;
 }
-h4{
-    font-size: 20px;
+h4 {
+  font-size: 20px;
 }
-p{
-    font-weight: 400;
-    font-size: 16px;
+p {
+  font-weight: 400;
+  font-size: 16px;
 }
 
-#super-client-heading{
-    color: white;
+#super-client-heading {
+  color: white;
 }
-#super-client-subheading{
-    color: white;
+#super-client-subheading {
+  color: white;
 }
