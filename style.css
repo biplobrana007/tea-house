@@ -10,8 +10,16 @@ h3,
 h4,
 h5,
 h6 {
-   color:#1c1c1c; 
     font-weight: 900;
+}
+
+.banner p,
+.our-featured p,
+.great-tea p,
+.client p,
+.news-and-events p,
+footer p{
+    color: #777777;
 }
 
 h2{
@@ -24,7 +32,6 @@ h4{
     font-size: 20px;
 }
 p{
-    color: #777777;
     font-weight: 400;
     font-size: 16px;
 }
